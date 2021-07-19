@@ -1,8 +1,32 @@
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+<!-- for styling -->
+<style>
+    @keyframes anim {
+        0% { top: 0px }
+        50% { top: 10px }
+        100% { top: 0px }
+    }
+
+    .container {
+        display: flex; 
+        justify-content: center; 
+        margin-bottom: 20px;
+    }
+
+    .arrow-down-animation {
+        position: relative;
+        animation-name: anim; 
+        animation-duration: 3s; 
+        animation-iteration-count: infinite;"
+    }
+</style>
+
+
+<!-- Animation of my name-->
+<div class="container">
     <img src="animations/animated_badr_moufad_modif.gif" width="600px" height="400px">
 </div>
 
-
+<!-- content -->
 
 # Hello and Welcome! <img src="animations/wave.gif" width="30px"> 
 
@@ -10,10 +34,10 @@
 [![Medium Badge](https://img.shields.io/badge/-@badr-moufad?style=flat-square&labelColor=000000&logo=Medium&link=https://badr-moufad.medium.com/)](https://badr-moufad.medium.com/)
 
 
-I am **Badr MOUFAD** | **Badì 把地 (master)**, a `student engineer` in industrial management.
-I am an `Engineering Generalist` who is currenlty applying his broad knowledge in the field of `data science`. As an auto learner, I constantly seek to sharpen my existing knowleadge and gain new skills. 
+I am **Badr MOUFAD** | **Badì 把地 (master)**, a **student engineer** in industrial management.
+I am an **Engineering Generalist** who is currenlty applying his broad knowledge in the field of **data science**. As an auto learner, I constantly seek to sharpen my existing knowleadge and gain new skills. 
 
-I am facinated by `coding` and I really enjoy solving `algorithmic problems`. Besides, I am all the time eager to apply `task automation` in my day-to-day work.
+I am facinated by **coding** and I really enjoy solving **algorithmic problems**. Besides, I am all the time eager to apply **task automation** in my day-to-day work.
 
 
 # Tools and Technologies
@@ -40,3 +64,27 @@ I am facinated by `coding` and I really enjoy solving `algorithmic problems`. Be
 ### Robotics
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px" width="80px"> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="25px" width="80px">
+
+
+# Explore my projects
+
+To learn further about the projects I have worked on, take while to explore **my repositories** by following [this link](https://github.com/Badr-MOUFAD?tab=repositories), or browse further **below**.
+
+
+<!-- Animation of arrows -->
+
+<div class="container">
+    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 0ms;" width="30px" height="30px">
+    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 500ms;" width="30px" height="30px">
+    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 1000ms;" width="30px" height="30px">
+    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 1500ms;" width="30px" height="30px">
+    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 2000ms;" width="30px" height="30px">
+    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 2500ms;" width="30px" height="30px">
+    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 3000ms;" width="30px" height="30px">
+    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 3500ms;" width="30px" height="30px">
+    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 4000ms;" width="30px" height="30px">
+    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 4500ms;" width="30px" height="30px">
+    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 5000ms;" width="30px" height="30px">
+    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 5500ms;" width="30px" height="30px">
+</div>
+
