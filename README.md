@@ -1,25 +1,3 @@
-<!-- for styling -->
-<style>
-    @keyframes anim {
-        0% { top: 0px }
-        50% { top: 10px }
-        100% { top: 0px }
-    }
-
-    .container {
-        display: flex; 
-        justify-content: center; 
-        margin-bottom: 20px;
-    }
-
-    .arrow-down-animation {
-        position: relative;
-        animation-name: anim; 
-        animation-duration: 3s; 
-        animation-iteration-count: infinite;"
-    }
-</style>
-
 
 <!-- Animation of my name-->
 <div class="container">
@@ -69,22 +47,3 @@ I am facinated by **coding** and I really enjoy solving **algorithmic problems**
 # Explore my projects
 
 To learn further about the projects I have worked on, take while to explore **my repositories** by following [this link](https://github.com/Badr-MOUFAD?tab=repositories), or browse further **below**.
-
-
-<!-- Animation of arrows -->
-
-<div class="container">
-    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 0ms;" width="30px" height="30px">
-    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 500ms;" width="30px" height="30px">
-    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 1000ms;" width="30px" height="30px">
-    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 1500ms;" width="30px" height="30px">
-    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 2000ms;" width="30px" height="30px">
-    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 2500ms;" width="30px" height="30px">
-    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 3000ms;" width="30px" height="30px">
-    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 3500ms;" width="30px" height="30px">
-    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 4000ms;" width="30px" height="30px">
-    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 4500ms;" width="30px" height="30px">
-    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 5000ms;" width="30px" height="30px">
-    <img src="animations/down-arrow.svg" class="arrow-down-animation" style="margin-right: 5px; animation-delay: 5500ms;" width="30px" height="30px">
-</div>
-
