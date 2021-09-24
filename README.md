@@ -12,10 +12,11 @@
 [![Medium Badge](https://img.shields.io/badge/-@badr-moufad?style=flat-square&labelColor=000000&logo=Medium&link=https://badr-moufad.medium.com/)](https://badr-moufad.medium.com/)
 
 
-I am **Badr MOUFAD** | **Badì 把地 (master)**, a **student engineer** in industrial management.
-I am an **Engineering Generalist** who is currenlty applying his broad knowledge in the field of **data science**. As an auto learner, I constantly seek to sharpen my existing knowleadge and gain new skills. 
+I am **Badr MOUFAD** | **把地 (master)**, an industrial management **student engineer**.
+I am an **Engineering Generalist** who is currenlty applying his broad knowledge in the field of **data science**. I am going through an intensive semester to learn mathematical fundations and practical usage of data science.
 
-I am facinated by **coding** and I really enjoy solving **algorithmic problems**. Besides, I am all the time eager to apply **task automation** in my day-to-day work.
+As an auto learner, I constantly seek to sharpen my existing knowleadge and gain new skills. 
+I am facinated by **coding** and I really enjoy solving **algorithmic problems**.
 
 
 # Tools and Technologies
