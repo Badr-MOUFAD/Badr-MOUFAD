@@ -1,8 +1,11 @@
 
 <!-- Animation of my name-->
 <div class="container">
-    <img src="animations/animated_badr_moufad_modif.gif" width="600px" height="400px">
+    <img src="animations/animated_badr_moufad_modif.gif" width="100%" height="500px">
 </div>
+
+> *Build with pure numpy and matplotlib*.
+> [Wanna make your own?](https://github.com/Badr-MOUFAD/animate_your_name)
 
 <!-- content -->
 
