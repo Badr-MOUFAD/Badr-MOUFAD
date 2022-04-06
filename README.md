@@ -41,4 +41,6 @@ My Dev Stack for computational mathematics, data science, Web/Desktop apps, and 
 
 # Explore my projects
 
+I like to share my thoughts. So far, I have written two articles. The first one is about the [inverse sampling method](https://towardsdatascience.com/an-insight-on-generating-samples-from-a-custom-probability-density-function-d0a06c290c54) where as the other on [structering data science project](https://towardsdatascience.com/its-time-to-structure-your-data-science-project-1fa064fbe46).
+
 To learn more about the projects I have worked on, take a while to explore **my repositories** by following [this link](https://github.com/Badr-MOUFAD?tab=repositories), or browse further **below**.
