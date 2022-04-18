@@ -4,7 +4,7 @@
     <img src="animations/animated_badr_moufad_modif.gif" width="75%" height="350px">
 </div>
 
-> *Build with pure numpy and matplotlib*.
+> *Built with pure numpy and matplotlib*.
 > [Wanna make your own?](https://github.com/Badr-MOUFAD/animate_your_name)
 
 
