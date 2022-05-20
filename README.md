@@ -1,7 +1,7 @@
 
 <!-- Animation of my name-->
 <div class="container" align="center">
-    <img src="animations/animated_badr_moufad_modif.gif" width="75%" height="350px">
+    <img src="animations/animated_badr_moufad_modif.gif" height="350px">
 </div>
 
 > *Built with pure numpy and matplotlib*.
