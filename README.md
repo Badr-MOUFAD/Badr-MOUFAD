@@ -1,7 +1,7 @@
 
 <!-- Animation of my name-->
 <div class="container" align="center">
-    <img src="animations/animated_badr_moufad_modif.gif" height="350px">
+    <img src="animations/animated_badr_moufad.gif" height="300px">
 </div>
 
 > *Built with pure numpy and matplotlib*.
@@ -16,7 +16,15 @@
 [![Medium Badge](https://img.shields.io/badge/-@badr-moufad?style=flat-square&labelColor=000000&logo=Medium&link=https://badr-moufad.medium.com/)](https://badr-moufad.medium.com/)
 
 
-I’m Badr MOUFAD, an engineering student with a major in **industrial management engineering** and a minor in **data science**. I am an intern at **INRIA Lyon**, team **DANTE**. I work on the design and implementation of fast solvers for non-convex inverse sparse problems. I am currently focusing on the development of [Celer](https://github.com/mathurinm/celer.git) – A fast solver for L1-type problems.
+I’m Badr MOUFAD, an engineering student with a major in **industrial management engineering** and a minor in **data science**. I'm an intern at **INRIA Lyon**, team **DANTE**, and there I work on the design and implementation of fast solvers for penalized generalized linear models (GLM). 
+
+
+As an open source advocate, I'm currently involved in the development of 
+- [celer](https://github.com/mathurinm/celer), a fast solver for L1-type problems
+- [skglm](https://github.com/scikit-learn-contrib/skglm), a modular package for penalized GLM
+- [benchopt](https://github.com/benchopt/benchopt), a package to benchmark optimization algorithms
+
+I'm also a maintainer of [SkillNER](https://skillner.vercel.app), a rule based NLP package that automatically extract skills from text.
 
 
 As an auto learner, I constantly seek to sharpen my existing knowledge and gain new skills. I am passionate about computational mathematics, extremely fascinated by coding, and I really enjoy solving algorithmic problems. Also, I enjoy building Web/Desktop Apps, from time to time. 
@@ -44,4 +52,4 @@ My Dev Stack for computational mathematics, data science, Web/Desktop apps, and 
 
 I like to share my thoughts. So far, I have written two articles. The first one is about the [inverse sampling method](https://towardsdatascience.com/an-insight-on-generating-samples-from-a-custom-probability-density-function-d0a06c290c54) whereas the other on [structering data science project](https://towardsdatascience.com/its-time-to-structure-your-data-science-project-1fa064fbe46). The best is yet to come...
 
-To learn more about the projects I have worked on, take a while to explore **my repositories** by following [this link](https://github.com/Badr-MOUFAD?tab=repositories), or browse further **below**.
+To learn more about the projects I have worked on, take a while to browse [my repositories](https://github.com/Badr-MOUFAD?tab=repositories), or scroll further **below**.
