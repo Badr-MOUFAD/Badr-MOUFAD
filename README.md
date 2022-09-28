@@ -15,41 +15,25 @@
 [![Linkedin Badge](https://img.shields.io/badge/badr-moufad-81391a1a9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/badr-moufad-81391a1a9/)](https://www.linkedin.com/in/badr-moufad-81391a1a9/)
 [![Medium Badge](https://img.shields.io/badge/-@badr-moufad?style=flat-square&labelColor=000000&logo=Medium&link=https://badr-moufad.medium.com/)](https://badr-moufad.medium.com/)
 
+I'm Badr MOUFAD, an engineer with a major in **industrial management engineering** and a minor in **data science**.
+I am currently a Research Engineer at **Inria Lyon** within team **DANTE**. There, I study, design, and implement fast and modular solvers for sparse Generalized Linear Models (GLM).
 
-I’m Badr MOUFAD, an engineering student with a major in **industrial management engineering** and a minor in **data science**. I'm an intern at **INRIA Lyon**, team **DANTE**, and there I work on the design and implementation of fast solvers for penalized generalized linear models (GLM). 
+As an open source enthusiast, I am a maintainer of 
+- [``skglm``](https://github.com/scikit-learn-contrib/skglm), a fast and modular scikit-learn replacement for sparse GLMs
+- [``celer``](https://github.com/mathurinm/celer), a state-of-the-art solver for Lasso Like problems
+- [``skillner``](https://skillner.vercel.app), a rule-based NLP package that automatically extracts skills from text
 
+I am also involved in the development of [``Benchopt``](https://github.com/benchopt/benchopt), a collaborative and easy-to-use tool to perform reproducible and transparent benchmarks between solvers.
 
-As an open source advocate, I'm currently involved in the development of 
-- [celer](https://github.com/mathurinm/celer), a fast solver for L1-type problems
-- [skglm](https://github.com/scikit-learn-contrib/skglm), a modular package for penalized GLM
-- [benchopt](https://github.com/benchopt/benchopt), a package to benchmark optimization algorithms
-
-I'm also a maintainer of [SkillNER](https://skillner.vercel.app), a rule based NLP package that automatically extract skills from text.
-
-
-As an auto learner, I constantly seek to sharpen my existing knowledge and gain new skills. I am passionate about computational mathematics, extremely fascinated by coding, and I really enjoy solving algorithmic problems. Also, I enjoy building Web/Desktop Apps, from time to time. 
-
-
-# Tools and Technologies
-
-My Dev Stack for computational mathematics, data science, Web/Desktop apps, and robotics.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20px"  > <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="20px"   >
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="20px"   > <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="20px"> 
-<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" height="20px"   >
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20px"> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20px"   > 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20px"   > <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="20px"   > <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="20px"   > 
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="20px"   > 
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="20px"   > 
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="20px"   > 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="20px"   >
-<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" height="20px"   >
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="20px"  > <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="20px"  >
+I am deeply passionate about computational mathematics, extremely fascinated by coding, and I really enjoy solving algorithmic problems.
 
 
 # Explore my projects
 
-I like to share my thoughts. So far, I have written two articles. The first one is about the [inverse sampling method](https://towardsdatascience.com/an-insight-on-generating-samples-from-a-custom-probability-density-function-d0a06c290c54) whereas the other on [structering data science project](https://towardsdatascience.com/its-time-to-structure-your-data-science-project-1fa064fbe46). The best is yet to come...
+I like to share my thoughts through simple, hands-on, and well-illustrated [blogs](https://badr-moufad.medium.com/). So far, I have written:
 
-To learn more about the projects I have worked on, take a while to browse [my repositories](https://github.com/Badr-MOUFAD?tab=repositories), or scroll further **below**.
+- [**Beyond Linear Regression: Leveraging linear regression for feature selection of continuous/categorical variables**](https://towardsdatascience.com/beyond-linear-regression-467a7fc3bafb), where I describe an approach to select top-K most relevant features that explains a response
+- [**It’s time to structure your data science project**](https://towardsdatascience.com/its-time-to-structure-your-data-science-project-1fa064fbe46), where I propose a structure to organize data science project to improve their scalability and reproducibility
+- [**Deriving the inverse transform sampling method from first principles**](https://towardsdatascience.com/an-insight-on-generating-samples-from-a-custom-probability-density-function-d0a06c290c54), where I build from scratch a tool to generate samples from a custom probability density function
+
+To learn more about the projects I have worked on, take a while to explore my pinned repositories.
