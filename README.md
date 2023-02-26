@@ -24,7 +24,7 @@ As an open source enthusiast, I am a maintainer of
 - [``skglm``](https://github.com/scikit-learn-contrib/skglm), a fast and modular scikit-learn replacement for sparse GLMs
 - [``celer``](https://github.com/mathurinm/celer), a state-of-the-art solver for Lasso Like problems
 - [``skillner``](https://skillner.vercel.app), a rule-based NLP package that automatically extracts skills from text
-- [``Benchopt``](https://github.com/benchopt/benchopt), a collaborative tool to perform reproducible and transparent benchmarks between solvers.
+- [``Benchopt``](https://github.com/benchopt/benchopt), a collaborative tool to perform reproducible and transparent benchmarks between solvers
 
 I am deeply passionate about computational mathematics, extremely fascinated by coding, and I really enjoy solving algorithmic problems.
 
