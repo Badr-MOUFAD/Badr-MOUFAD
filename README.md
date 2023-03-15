@@ -17,7 +17,7 @@
 [![Google scholar Badge](https://img.shields.io/badge/Google%20schoolar--lightgrey?logo=googlescholar&style=flat-square&link=https://scholar.google.com/citations?user=0MkYv20AAAAJ&hl=en&color=brightgreen)](https://scholar.google.com/citations?user=0MkYv20AAAAJ&hl=en)
 
 
-I'm Badr MOUFAD, I am a Research Engineer at [**Inria Lyon**](https://www.inria.fr/fr/centre-inria-de-lyon), team [**DANTE**](https://team.inria.fr/dante/). There, I develop fast and modular solvers for sparse Generalized Linear Models (GLM).
+I'm Badr MOUFAD, I am a Research Engineer at [**Inria Lyon**](https://www.inria.fr/fr/centre-inria-de-lyon), team [**OCKHAM**](https://team.inria.fr/ockham/). There, I develop fast and modular solvers for sparse Generalized Linear Models (GLM).
 
 As an open source enthusiast, I am a maintainer of 
 - [``skglm``](https://github.com/scikit-learn-contrib/skglm), a fast and modular scikit-learn replacement for sparse GLMs
