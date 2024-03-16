@@ -10,7 +10,8 @@
 
 <!-- content -->
 
-# Hello and Welcome! <img src="animations/wave.gif" height="30px">
+# Hello and Welcome!
+<!-- <img src="animations/wave.gif" height="30px"> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-badr_moufad-81391a1a9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/badr-moufad-81391a1a9/)](https://www.linkedin.com/in/badr-moufad-81391a1a9/)
 [![Medium Badge](https://img.shields.io/badge/Medium-@badr-moufad?style=flat-square&labelColor=000000&logo=Medium&link=https://badr-moufad.medium.com/)](https://badr-moufad.medium.com/)
