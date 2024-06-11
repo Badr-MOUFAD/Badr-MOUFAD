@@ -18,8 +18,8 @@
 [![Google scholar Badge](https://img.shields.io/badge/Google%20schoolar--lightgrey?logo=googlescholar&style=flat-square&link=https://scholar.google.com/citations?user=0MkYv20AAAAJ&hl=en&color=brightgreen)](https://scholar.google.com/citations?user=0MkYv20AAAAJ&hl=en)
 
 
-I'm Badr MOUFAD and I'm a Ph.D. candidate at [Ecole Polytechnique](https://www.polytechnique.edu/en)–[CMAP](https://cmap.ip-paris.fr/en) working on Denoising Diffusion Probabilistic Models and Markov Chain Monte Carlo methods for mobility trajectory generation.
-Before that, I was a Research Engineer at [Inria Lyon](https://www.inria.fr/fr/centre-inria-de-lyon), team [OCKHAM](https://team.inria.fr/ockham/).
+I'm Badr MOUFAD and I'm a Ph.D. candidate at [Ecole Polytechnique](https://www.polytechnique.edu/en)–[CMAP](https://cmap.ip-paris.fr/en) working on Denoising Diffusion Probabilistic Models and Markov Chain Monte Carlo methods for trajectory prediction and traffic simulation.
+Before that, I was a research engineer at [Inria Lyon](https://www.inria.fr/fr/centre-inria-de-lyon), team [OCKHAM](https://team.inria.fr/ockham/).
 There, I developed fast and modular solvers for regularized GLMs.
 
 In parallel, I am an open source enthusiast, I'm a maintainer of
@@ -29,12 +29,3 @@ In parallel, I am an open source enthusiast, I'm a maintainer of
 - [``skillner``](https://skillner.vercel.app), a rule-based NLP package that automatically extracts skills from text
 
 I have a major in Industrial management engineering and a minor in data science from [EMINES](https://www.emines-ingenieur.org/) – [Mohammed VI Polytechnic University (UM6P)](https://www.um6p.ma/en).
-
-
-# Explore my writings
-
-I like to share my thoughts through simple, hands-on, and well-illustrated [blogs](https://badr-moufad.medium.com/). So far, I have written:
-
-- [**Leveraging linear regression for feature selection of categorical and continuous variables**](https://towardsdatascience.com/beyond-linear-regression-467a7fc3bafb), where I describe an approach to select top-K most relevant features that explains a target variable
-- [**It’s time to structure your data science project**](https://towardsdatascience.com/its-time-to-structure-your-data-science-project-1fa064fbe46), where I propose a structure to organize data science project to improve their scalability and reproducibility
-- [**Deriving the inverse transform sampling method from first principles**](https://towardsdatascience.com/an-insight-on-generating-samples-from-a-custom-probability-density-function-d0a06c290c54), where I build from scratch a tool to generate samples from a custom probability density function
