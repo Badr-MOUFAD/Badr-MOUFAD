@@ -18,7 +18,7 @@
 [![Google scholar Badge](https://img.shields.io/badge/Google%20schoolar--lightgrey?logo=googlescholar&style=flat-square&link=https://scholar.google.com/citations?user=0MkYv20AAAAJ&hl=en&color=brightgreen)](https://scholar.google.com/citations?user=0MkYv20AAAAJ&hl=en)
 
 
-I'm Badr MOUFAD and I'm a Ph.D. candidate at [Ecole Polytechnique](https://www.polytechnique.edu/en)–[CMAP](https://cmap.ip-paris.fr/en) working on Denoising Diffusion Probabilistic Models and Markov Chain Monte Carlo methods for trajectory prediction and traffic simulation.
+I'm Badr MOUFAD and I'm a Ph.D. candidate at [Ecole Polytechnique](https://www.polytechnique.edu/en)–[CMAP](https://cmap.ip-paris.fr/en). I work on inference-time guidance of Diffusion Models using Markov Chain Monte Carlo methods.
 Before that, I was a research engineer at [Inria Lyon](https://www.inria.fr/fr/centre-inria-de-lyon), team [OCKHAM](https://team.inria.fr/ockham/).
 There, I developed fast and modular solvers for regularized GLMs.
 
